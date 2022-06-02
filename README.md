@@ -1,7 +1,9 @@
 ### My To do List
-[myToDoList]( https://taguhika.github.io/myToDoList/)
+
+[myToDoList][( https://taguhika.github.io/myToDoList/)]
 
 ![myToDoList](./myToDo.png?raw=true "myTodo")
+
 
 ### `npm start`
 
