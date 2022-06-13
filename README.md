@@ -1,7 +1,7 @@
 ### My To do List
 
 
-![myToDoList](./myToDo.png?raw=true "myTodo")
+![myToDoList](./myToDo.gif?raw=true "myTodo")
 
 
 ### `npm start`
