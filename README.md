@@ -1,8 +1,6 @@
 ### My To do List
 
 
-![myToDoList](./myToDo.gif?raw=true "myTodo")
-
 
 ### `npm start`
 
@@ -11,3 +9,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
+
+![myToDoList](./myToDo.gif?raw=true "myTodo")
