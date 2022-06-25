@@ -1,6 +1,8 @@
 ### My To do List
 
+This ToDo list is built by following a React tutorial. 
 
+Check  this repository https://github.com/TaguhiKa/posts-app.git where I made CRUD application by myself.
 
 ### `npm start`
 
